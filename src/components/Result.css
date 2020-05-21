@@ -1,0 +1,16 @@
+.result {
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.result2 {
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.result h3, .result h4 {
+    font-weight: normal;
+}
+.result strong {
+    font-weight: bold;
+}

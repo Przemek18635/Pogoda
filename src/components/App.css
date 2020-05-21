@@ -1,0 +1,10 @@
+.App input {
+  text-align: center;
+}
+.App{
+  background-color: rgb(145, 144, 144);
+}
+
+.App h2, .App h1{
+  text-align: center;
+}
